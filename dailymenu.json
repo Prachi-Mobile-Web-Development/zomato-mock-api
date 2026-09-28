@@ -1,0 +1,250 @@
+{
+  "daily_menus": [
+    {
+      "daily_menu": {
+        "daily_menu_id": "1",
+        "name": "Biryani",
+        "dishes": [
+          {
+            "dish": {
+              "dish_id": "d001",
+              "name": "Chicken Dum Biryani",
+              "price": "249 Rs.",
+              "description": "Slow-cooked aromatic basmati rice with tender chicken pieces marinated in special spices",
+              "image_url": "https://images.unsplash.com/photo-1589302168068-964664d93dc0?w=200&h=200&fit=crop",
+              "is_veg": 0,
+              "is_recommended": 1
+            }
+          },
+          {
+            "dish": {
+              "dish_id": "d002",
+              "name": "Mutton Biryani",
+              "price": "349 Rs.",
+              "description": "Rich and flavorful biryani with slow-cooked tender mutton pieces",
+              "image_url": "https://images.unsplash.com/photo-1598515214211-89d3c73ae83b?w=200&h=200&fit=crop",
+              "is_veg": 0,
+              "is_recommended": 1
+            }
+          },
+          {
+            "dish": {
+              "dish_id": "d003",
+              "name": "Veg Biryani",
+              "price": "179 Rs.",
+              "description": "Fragrant basmati rice cooked with fresh vegetables and whole spices",
+              "image_url": "https://images.unsplash.com/photo-1512058564366-18510be2db19?w=200&h=200&fit=crop",
+              "is_veg": 1,
+              "is_recommended": 0
+            }
+          },
+          {
+            "dish": {
+              "dish_id": "d004",
+              "name": "Egg Biryani",
+              "price": "199 Rs.",
+              "description": "Delicious biryani with boiled eggs and aromatic spices",
+              "image_url": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?w=200&h=200&fit=crop",
+              "is_veg": 0,
+              "is_recommended": 0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "daily_menu": {
+        "daily_menu_id": "2",
+        "name": "Starters",
+        "dishes": [
+          {
+            "dish": {
+              "dish_id": "d005",
+              "name": "Chicken 65",
+              "price": "199 Rs.",
+              "description": "Crispy deep-fried chicken with red chillies and curry leaves",
+              "image_url": "https://images.unsplash.com/photo-1606755962773-d324e0a13086?w=200&h=200&fit=crop",
+              "is_veg": 0,
+              "is_recommended": 1
+            }
+          },
+          {
+            "dish": {
+              "dish_id": "d006",
+              "name": "Paneer Tikka",
+              "price": "229 Rs.",
+              "description": "Grilled cottage cheese marinated in spiced yogurt with bell peppers and onions",
+              "image_url": "https://images.unsplash.com/photo-1567188040759-fb8a883dc6d8?w=200&h=200&fit=crop",
+              "is_veg": 1,
+              "is_recommended": 1
+            }
+          },
+          {
+            "dish": {
+              "dish_id": "d007",
+              "name": "Gobi Manchurian",
+              "price": "159 Rs.",
+              "description": "Crispy cauliflower in spicy Indo-Chinese sauce with spring onions",
+              "image_url": "https://images.unsplash.com/photo-1563379926898-05f4575a45d8?w=200&h=200&fit=crop",
+              "is_veg": 1,
+              "is_recommended": 0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "daily_menu": {
+        "daily_menu_id": "3",
+        "name": "Main Course",
+        "dishes": [
+          {
+            "dish": {
+              "dish_id": "d008",
+              "name": "Butter Chicken",
+              "price": "299 Rs.",
+              "description": "Tender chicken in a rich creamy tomato-based sauce with aromatic spices",
+              "image_url": "https://images.unsplash.com/photo-1588166524941-3bf61a9c41db?w=200&h=200&fit=crop",
+              "is_veg": 0,
+              "is_recommended": 1
+            }
+          },
+          {
+            "dish": {
+              "dish_id": "d009",
+              "name": "Dal Makhani",
+              "price": "199 Rs.",
+              "description": "Slow-cooked black lentils in a rich buttery tomato gravy",
+              "image_url": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?w=200&h=200&fit=crop",
+              "is_veg": 1,
+              "is_recommended": 1
+            }
+          },
+          {
+            "dish": {
+              "dish_id": "d010",
+              "name": "Palak Paneer",
+              "price": "229 Rs.",
+              "description": "Cottage cheese cubes in a smooth spinach-based gravy with spices",
+              "image_url": "https://images.unsplash.com/photo-1601050690597-df0568f70950?w=200&h=200&fit=crop",
+              "is_veg": 1,
+              "is_recommended": 0
+            }
+          },
+          {
+            "dish": {
+              "dish_id": "d011",
+              "name": "Mutton Rogan Josh",
+              "price": "349 Rs.",
+              "description": "Slow-cooked mutton in Kashmiri spices with a rich aromatic gravy",
+              "image_url": "https://images.unsplash.com/photo-1545247181-516773cae754?w=200&h=200&fit=crop",
+              "is_veg": 0,
+              "is_recommended": 0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "daily_menu": {
+        "daily_menu_id": "4",
+        "name": "Breads",
+        "dishes": [
+          {
+            "dish": {
+              "dish_id": "d012",
+              "name": "Butter Naan",
+              "price": "49 Rs.",
+              "description": "Soft leavened bread baked in tandoor with butter",
+              "image_url": "https://images.unsplash.com/photo-1574894709920-11b28e7367e3?w=200&h=200&fit=crop",
+              "is_veg": 1,
+              "is_recommended": 0
+            }
+          },
+          {
+            "dish": {
+              "dish_id": "d013",
+              "name": "Garlic Naan",
+              "price": "59 Rs.",
+              "description": "Tandoor-baked bread topped with garlic and coriander",
+              "image_url": "https://images.unsplash.com/photo-1574894709920-11b28e7367e3?w=200&h=200&fit=crop",
+              "is_veg": 1,
+              "is_recommended": 0
+            }
+          },
+          {
+            "dish": {
+              "dish_id": "d014",
+              "name": "Laccha Paratha",
+              "price": "69 Rs.",
+              "description": "Flaky multi-layered whole wheat bread cooked with butter",
+              "image_url": "https://images.unsplash.com/photo-1574894709920-11b28e7367e3?w=200&h=200&fit=crop",
+              "is_veg": 1,
+              "is_recommended": 0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "daily_menu": {
+        "daily_menu_id": "5",
+        "name": "Desserts",
+        "dishes": [
+          {
+            "dish": {
+              "dish_id": "d015",
+              "name": "Gulab Jamun",
+              "price": "89 Rs.",
+              "description": "Soft milk-solid dumplings soaked in rose-flavored sugar syrup",
+              "image_url": "https://images.unsplash.com/photo-1551024601-bec78aea704b?w=200&h=200&fit=crop",
+              "is_veg": 1,
+              "is_recommended": 1
+            }
+          },
+          {
+            "dish": {
+              "dish_id": "d016",
+              "name": "Kulfi",
+              "price": "99 Rs.",
+              "description": "Traditional Indian ice cream with saffron and pistachios",
+              "image_url": "https://images.unsplash.com/photo-1560008581-09826d1de69e?w=200&h=200&fit=crop",
+              "is_veg": 1,
+              "is_recommended": 0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "daily_menu": {
+        "daily_menu_id": "6",
+        "name": "Beverages",
+        "dishes": [
+          {
+            "dish": {
+              "dish_id": "d017",
+              "name": "Mango Lassi",
+              "price": "79 Rs.",
+              "description": "Thick chilled yogurt drink blended with fresh mango pulp",
+              "image_url": "https://images.unsplash.com/photo-1553361371-9b22f78e8b1d?w=200&h=200&fit=crop",
+              "is_veg": 1,
+              "is_recommended": 1
+            }
+          },
+          {
+            "dish": {
+              "dish_id": "d018",
+              "name": "Masala Chaas",
+              "price": "49 Rs.",
+              "description": "Spiced buttermilk with cumin, ginger and fresh coriander",
+              "image_url": "https://images.unsplash.com/photo-1570696516188-ade861b84a49?w=200&h=200&fit=crop",
+              "is_veg": 1,
+              "is_recommended": 0
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
